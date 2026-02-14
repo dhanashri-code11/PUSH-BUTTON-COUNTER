@@ -1,3 +1,4 @@
+
 # PUSH-BUTTON-COUNTER
 COMPANY:CODTECH IT SOLUTIONS
 
@@ -30,4 +31,11 @@ Factories and production lines: Machines often use counters to track how many it
 Sports and fitness: Think of lap counters in swimming or step counters in fitness devices — the principle is the same.
 
 Consumer electronics: Remote controls, calculators, and gaming consoles all rely on button press counters internally to make sure every press is registered.
+
 OUTPUT:
+<img width="1904" height="790" alt="Image" src="https://github.com/user-attachments/assets/15275ff1-b77c-4eaf-83c2-14a91fa591c8" />
+
+
+
+
+
